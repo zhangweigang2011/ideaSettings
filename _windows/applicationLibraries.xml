@@ -2,21 +2,150 @@
   <component name="libraryTable">
     <library name="play-1.2.3-jdk1.8">
       <CLASSES>
-        <root url="jar://G:/play_1-8/play-1.2.3-jdk1.8.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="play-1.2.3-jdk1.8-lib">
-      <CLASSES>
-        <root url="file://G:/play_1-8/framework/lib" />
+        <root url="jar://G:/play_1-8/framework/play-1.2.3-jdk1.8.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activation-1.1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-all-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-broker-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-client-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-console-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-jaas-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-kahadb-store-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-openwire-legacy-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-pool-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-protobuf-1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-spring-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/activemq-web-5.8.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/alipay-sdk-java20140221120053.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/antlr-2.7.6.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/asm-all-5.0.4.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/async-http-client-1.6.3.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/axis.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/bcprov-jdk15-1.45.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/c3p0-0.9.1.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/cglib-nodep-3.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-beanutils-1.8.3.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-codec-1.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-collections-3.2.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-dbcp-1.4.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-discovery-0.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-email-1.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-fileupload-1.2.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-httpclient-3.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-io-2.0.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-javaflow-1066591.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-lang-2.6.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-logging-1.1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/commons-pool-1.5.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/cxf-2.2.10.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/dom4j-1.6.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/dubbo-2.5.3.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/ehcache-core-2.0.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/ezmorph-1.0.3.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-annotation_1.0_spec-1.1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-jaxws_2.1_spec-1.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-jms_1.1_spec-1.1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-jta_1.0.1B_spec-1.0.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-servlet_2.5_spec-1.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-stax-api_1.0_spec-1.0.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/geronimo-ws-metadata_2.0_spec-1.1.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/groovy-all-1.7.7.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/gson-2.2.4.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/h2-1.3.149.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/hawtbuf-1.9.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/hibernate-commons-annotations-3.2.0.Final.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/hibernate-core-3.6.1.Final.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/hibernate-entitymanager-3.6.0.Final.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/hl95.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/httpclient-4.2.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/httpclient-cache-4.2.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/httpcore-4.2.4.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/httpmime-4.2.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/iText-2.1.7.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/ivy-2.2.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jackson-all-1.9.11.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jamon-2.7.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/javassist-3.18.1-GA.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/javax.inject-1.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jaxb-api.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jaxb-impl-2.1.13.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jaxen-1.1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jaxrpc.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jboss-logging-3.1.0.GA.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jcl-over-slf4j-1.6.6.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jcommon-1.0.20.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jedis-2.0.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jfreechart-1.0.16.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jj-imaging.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jj-simplecaptcha.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jj-textile.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jj-wikitext.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/joda-time-1.6.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jregex-1.2_01.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/json-lib-2.3-jdk15.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jsr107cache-1.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/jta-1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/junit-4.8.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/kafka_2.9.2-0.8.1.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/log4j-1.2.15.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/log4j-api-2.11.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/log4j-core-2.11.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/mail-1.4.3.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/maxcom.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/memcached-2.6.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/metrics-core-2.2.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/mysql-connector-java-5.1.26-bin.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/neethi-2.0.4.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/netpayclient.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/netty-3.2.6.Final.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/ojdbc6_g.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.core.commands-3.9.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.core.contenttype-3.6.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.core.expressions-3.6.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.core.filesystem-1.7.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.core.jobs-3.9.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.core.resources-3.12.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.core.runtime-3.13.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.equinox.app-1.3.400.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.equinox.common-3.9.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.equinox.preferences-3.7.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.equinox.registry-3.7.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.jdt.core-3.12.3.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.osgi-3.12.50.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/org.eclipse.text-3.6.100.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/ostermillerutils_1_07_00.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/oval-1.50.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/pinyin4j-2.5.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/play-dubbo-2.0.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/play-redis.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/poi-3.7-20101029.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/postgresql-9.0.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/saaj-impl-1.3.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/sax2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/scala-library-2.9.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/signpost-core-1.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/slf4j-api-1.7.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/snakeyaml-1.7.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/snappy-java-1.0.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/spring-core-3.0.1.RELEASE-A.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/sqlitejdbc-v056.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/sqljdbc4.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/stringtemplate-3.2.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/wsdl4j-1.6.2.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/wstx-asl-3.2.9.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/xercesImpl-2.9.1.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/xmlpull_1_0_5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/XmlSchema-1.4.5.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/xstream-1.4.4.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/zkclient-0.3.jar!/" />
+        <root url="jar://G:/play_1-8/framework/lib/zookeeper-3.3.4.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://G:/play_1-8/framework/lib" />
+        <root url="jar://G:/play_1-8/framework/lib/ostermillerutils_1_07_00.jar!/" />
       </SOURCES>
-      <jarDirectory url="file://G:/play_1-8/framework/lib" recursive="false" />
-      <jarDirectory url="file://G:/play_1-8/framework/lib" recursive="false" type="SOURCES" />
     </library>
   </component>
 </application>
