@@ -143,9 +143,7 @@
         <root url="jar://G:/play_1-8/framework/lib/zookeeper-3.3.4.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="jar://G:/play_1-8/framework/lib/ostermillerutils_1_07_00.jar!/" />
-      </SOURCES>
+      <SOURCES />
     </library>
   </component>
 </application>
