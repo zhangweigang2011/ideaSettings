@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="MAX_LOOKUP_WIDTH2" value="629" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
