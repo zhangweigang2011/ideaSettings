@@ -1118,6 +1118,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.play">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.play" />
+              <option name="myPluginName" value="Play Framework" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
