@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="15" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
@@ -6,4 +7,7 @@
   <ScalaCodeStyleSettings>
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
   </ScalaCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
 </code_scheme>
