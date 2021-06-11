@@ -1,5 +1,5 @@
 <templateSet group="Java">
-  <template name="*" value="* &#10; * 描述:TODO$END$&#10; * @author zhangweigang&#10; * @date $date$ $time$&#10; */" description="类注释" toReformat="false" toShortenFQNames="true">
+  <template name="*" value="* &#10; * 描述:TODO$END$&#10; * @author zhangweigang&#10; * @date $date$ $time$&#10; */" description="类注释" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time(&quot;HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
