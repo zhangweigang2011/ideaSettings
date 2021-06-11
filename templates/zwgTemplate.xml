@@ -1,5 +1,5 @@
 <templateSet group="zwgTemplate">
-  <template name="*" value="*&#10; * @describe &#10; * @author zhangweigang &#10; * @date  $date$ $time$&#10; $param$ &#10; * @return $return$&#10; **/" shortcut="ENTER" description="方法注释" toReformat="false" toShortenFQNames="true">
+  <template name="*" value="*&#10; * @describe &#10; * @author zhangweigang &#10; * @date $date$ $time$&#10; $param$ &#10; * @return $return$&#10; */" shortcut="ENTER" description="方法注释" toReformat="false" toShortenFQNames="true">
     <variable name="param" expression="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i==0){result+='* @param ' + params[i] + '  '}else{result+='\\n' + ' * @param ' + params[i] + '  '}}; return result;}&quot;, methodParameters());" defaultValue="" alwaysStopAt="false" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
